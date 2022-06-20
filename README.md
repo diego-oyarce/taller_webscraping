@@ -1,5 +1,9 @@
 # TALLER WEBSCRAPING
+- Codigo con Pandas
+# PRE-REQUISITOS
+- Tener instalado python
 
 ## INSTALACION
-
-## CONTRIBUTION
+Instalar Pandas: pip install pandas
+## QUICK START
+python main.py
